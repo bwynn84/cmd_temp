@@ -7,9 +7,11 @@ https://github.com/open-source-parsers/jsoncpp
 This is only a simple command line tool that will tell you the current temperature. I wrote this to play with other libraries and so I wouldn't get rusty from not coding as much.
 
 To run type, ./cmd_temp [then zip code]
+
 for example: ./cmd_temp 90210
 
 It will show you:
+
 The temperature for Beverly Hills is 55° F.
 
 
